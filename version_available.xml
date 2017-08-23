@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<available>
+    <!--Версия-->
+	<version>1.43 (Release)</version>
+	<!--Сылка на игру-->
+	<link>https://raw.githubusercontent.com/FarBoxGames/TheMoonNight_update/master/testlink.png</link>
+	<!--Описание-->
+	<description>A game is accessible for loading.</description>
+</available>
