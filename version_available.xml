@@ -6,4 +6,7 @@
 	<link>https://raw.githubusercontent.com/FarBoxGames/TheMoonNight_update/master/TheMoonNight_v1.42 (Release).zip</link>
 	<!--Описание-->
 	<description>A game is accessible for loading.</description>
+	<oldListVersion>
+		<old></old>
+	</oldListVersion>
 </available>
